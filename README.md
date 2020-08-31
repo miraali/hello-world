@@ -1,2 +1,5 @@
 # hello-world
-Just another hello-world repo
+
+Hi Humans!
+
+Mira Ali here, I make sprinkle pancakes and drink cucumber juice.
